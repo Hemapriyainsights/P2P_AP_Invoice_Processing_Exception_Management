@@ -66,3 +66,7 @@ Designed the P2P invoice processing workflow, analyzed matching results, identif
 
 ## Disclaimer
 This is a simulated project created for learning and portfolio demonstration. It does not represent production experience with SAP.
+
+## Project Structure
+
+- `P2P_AP_Invoice_Processing_Exception_Management.xlsx` — Complete project workbook containing the dataset, invoice matching, exception management, reconciliation, KPI analysis, and README documentation.
