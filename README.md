@@ -70,3 +70,16 @@ This is a simulated project created for learning and portfolio demonstration. It
 ## Project Structure
 
 - `P2P_AP_Invoice_Processing_Exception_Management.xlsx` — Complete project workbook containing the dataset, invoice matching, exception management, reconciliation, KPI analysis, and README documentation.
+
+## Key Process Concepts
+
+- Procure-to-Pay (P2P)
+- Accounts Payable (AP)
+- Purchase Order (PO)
+- Goods Receipt (GR)
+- Supplier Invoice
+- 2-Way Matching
+- 3-Way Matching
+- Invoice Exceptions
+- Reconciliation
+- Payment Processing
